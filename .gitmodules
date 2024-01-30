@@ -1,0 +1,6 @@
+[submodule "sp24-lab1-spineda1208"]
+	path = sp24-lab1-spineda1208
+	url = ./sp24-lab1-spineda1208
+[submodule "sp24-labhalf-spineda1208"]
+	path = sp24-labhalf-spineda1208
+	url = ./sp24-labhalf-spineda1208
