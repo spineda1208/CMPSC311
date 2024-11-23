@@ -10,3 +10,6 @@
 [submodule "assignment-3-spineda1208"]
 	path = assignment-3-spineda1208
 	url = https://github.com/psu-cmpsc311-fall24-classroom/assignment-3-spineda1208.git
+[submodule "assignment-4-spineda1208"]
+	path = assignment-4-spineda1208
+	url = https://github.com/psu-cmpsc311-fall24-classroom/assignment-4-spineda1208
